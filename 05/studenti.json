@@ -1,0 +1,38 @@
+[
+    {
+        "ime": "John Doe",
+        "grad": "New York",
+        "prosek": 8.9
+    },
+    {
+        "ime": "Bella Doe",
+        "grad": "New York",
+        "prosek": 8.3
+    },
+    {
+        "ime": "Brian Higins",
+        "grad": "Orlando",
+        "prosek": 2.9
+    },
+    {
+        "ime": "John Doe",
+        "grad": "Los Angeles",
+        "prosek": 7.9
+    },
+    {
+        "ime": "Ivonne Johnson",
+        "grad": "Boston",
+        "prosek": 6.9
+    },
+    {
+        "ime": "Claudia Keneth",
+        "grad": "San Francisco",
+        "prosek": 3.9
+    },
+    {
+        "ime": "Danica Danevska",
+        "grad": "Toronto",
+        "prosek": 4.9
+    }
+
+]
